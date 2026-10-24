@@ -1,0 +1,1 @@
+"""Paquete UI del explorador de archivos."""
